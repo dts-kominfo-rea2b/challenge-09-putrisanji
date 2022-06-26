@@ -1,0 +1,15 @@
+.title {
+    flex: 1;
+    justify-content: center;
+    color: #f2e9e4;
+    margin-bottom: 4rem;
+    border-bottom: 7px dotted #f2e9e4;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+p {
+    font-weight: 500;
+    color: #f2e9e4;
+    margin-bottom: 2.5rem;
+}
